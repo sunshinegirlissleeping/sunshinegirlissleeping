@@ -9,8 +9,8 @@
 
 <br clear="all">
 
-<!-- 2. Sol İkinci Biyo Yazısı ve Sağda Metne Hizalı Fotoğraf (Tablo Düzeni) -->
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none !important; background: transparent !important; width: 100%;">
+<!-- 2. Çizgisiz Tablo Düzeni (İkinci Biyo ve Ortalanmış Fotoğraf) -->
+<table style="border: none !important; border-collapse: collapse !important; background: transparent !important; width: 100%;">
   <tr style="border: none !important; background: transparent !important;">
     <td align="left" valign="middle" style="border: none !important; background: transparent !important; padding-right: 20px;">
       <b>Kendimden biraz daha bahsediyim ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>

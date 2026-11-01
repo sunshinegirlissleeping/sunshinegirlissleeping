@@ -9,9 +9,9 @@
 
 <br clear="all">
 
-<!-- 2. Sol İkinci Biyo Yazısı + Sağda Tam Yanında ve Çizgisiz Görsel -->
+<!-- 2. Sol İkinci Biyo Yazısı + Sağda Kesinlikle Çizgisiz Resim -->
 <p align="left">
-  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="180" align="right" hspace="15" />
+  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="180" align="right" hspace="15" style="border: none !important; outline: none !important; box-shadow: none !important;" />
   <b>Kendimden biraz daha bahsediyim ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
   Genellikle oyun oynurorum özellikle<br>
   Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>

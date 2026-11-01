@@ -1,10 +1,7 @@
-<p align="left">
-  <img src="https://i.pinimg.com/1200x/5b/b0/bc/5bb0bc2d2eb594a79ad041205d11a059.jpg" width="180">
-</p>
 <table>
   <tr>
     <td align="left" valign="top">
-      <img src="https://i.pinimg.com/1200x/5b/b0/bc/5bb0bc2d2eb594a79ad041205d11a059.jpg" width="160">
+      <img src="https://i.pinimg.com/1200x/b1/5b/f7/b15bf78a0fd4961907bd2af1eaa2a76e.jpg" width="220">
     </td>
     <td valign="top" style="padding-left: 20px;">
       <h3>selam ◕⩊◕</h3>

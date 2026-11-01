@@ -9,18 +9,24 @@
 
 <br clear="all">
 
-<!-- 2. Sol İkinci Biyo Yazısı + Sağda Tam Hizalı ve Çizgisiz Görsel -->
-<p align="left">
-  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="190" align="right" style="margin-left: 20px; margin-right: 15px; margin-top: 2px;" />
-  <b>Kendimden biraz daha bahsediyim ཐི ₍^.ˬˬ.^₎ 🧵</b><br>
-  Genellikle oyun oynurorum özellikle<br>
-  Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
-  bılıyorum ve normalde bildiklerimle icinde oynadı!!<br><br>
-  En buyuk hayalim üni kazanç ( • ̀ω•́ )✧<br>
-  özellikle hacettepe gsf gelirse severim<br><br>
-  ayrıca çizgifilm izlemeyi, unicornları<br>
-  tatlı seyleri seviyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
-  okudugun icin tekrardan teşekkür ederim!! ₍^㇁-₎ྀ
-</p>
+<!-- 2. Sol İkinci Biyo Yazısı + Sağda Yazının Yanında Sabit Görsel -->
+<table width="100%" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="65%" valign="middle" style="border: none; background: transparent; padding-right: 15px;">
+      <b>Kendimden biraz daha bahsediyim ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
+      Genellikle oyun oynurorum özellikle<br>
+      Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
+      bılıyorum ve normalde bildiklerimle icinde oynadı!!<br><br>
+      En buyuk hayalim üni kazanç ( • ̀ω•́ )✧<br>
+      özellikle hacettepe gsf gelirse severim<br><br>
+      ayrıca çizgifilm izlemeyi, unicornları<br>
+      tatlı seyleri seviyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
+      okudugun icin tekrardan teşekkür ederim!! ₍^㇁-₎ྀ
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none; background: transparent;">
+      <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="180" style="display: block; border: none; border-radius: 6px;" />
+    </td>
+  </tr>
+</table>
 
 <br clear="all">

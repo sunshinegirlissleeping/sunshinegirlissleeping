@@ -9,22 +9,18 @@
 
 <br clear="all">
 
-<!-- 2. İkinci Biyo ve Çizgisiz Esnek Yerleşim -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; width: 100%;">
-  <div style="flex: 1; text-align: left;">
-    <b>Kendimden biraz daha bahsediyim ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
-    Genellikle oyun oynurorum özellikle<br>
-    Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
-    bılıyorum ve normalde bildiklerimle icinde oynadı!!<br><br>
-    En buyuk hayalim üni kazanç ( • ̀ω•́ )✧<br>
-    özellikle hacettepe gsf gelirse severim<br><br>
-    ayrıca çizgifilm izlemeyi, unicornları<br>
-    tatlı seyleri seviyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
-    okudugun icin tekrardan teşekkür ederim!! ₍^㇁-₎ྀ
-  </div>
-  <div style="flex-shrink: 0; text-align: center;">
-    <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="200" style="display: block; border-radius: 6px;" />
-  </div>
-</div>
+<!-- 2. Sol İkinci Biyo Yazısı + Sağda Tam Hizalı ve Çizgisiz Görsel -->
+<p align="left">
+  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="190" align="right" style="margin-left: 20px; margin-right: 15px; margin-top: 2px;" />
+  <b>Kendimden biraz daha bahsediyim ཐི ₍^.ˬˬ.^₎ 🧵</b><br>
+  Genellikle oyun oynurorum özellikle<br>
+  Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
+  bılıyorum ve normalde bildiklerimle icinde oynadı!!<br><br>
+  En buyuk hayalim üni kazanç ( • ̀ω•́ )✧<br>
+  özellikle hacettepe gsf gelirse severim<br><br>
+  ayrıca çizgifilm izlemeyi, unicornları<br>
+  tatlı seyleri seviyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
+  okudugun icin tekrardan teşekkür ederim!! ₍^㇁-₎ྀ
+</p>
 
 <br clear="all">

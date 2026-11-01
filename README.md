@@ -9,8 +9,9 @@
 
 <br clear="all">
 
-<!-- 2. İkinci Biyo Yazısı (Ortadaki ayırıcı görsel kaldırıldı) -->
+<!-- 2. Sol İkinci Biyo Yazısı + Sağda Yeni Görselin Yazıyla Hizalanmış Hali -->
 <p align="left">
+  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="230" align="right" style="margin-left: 20px; margin-top: 5px;" />
   <b>Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
   Genellikle oyun oynurorum ozellıkle<br>
   Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
@@ -23,8 +24,3 @@
 </p>
 
 <br clear="all">
-
-<!-- 3. En Altta Sağdan Sola Uzanan Banner Görseli -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="100%" />
-</p>

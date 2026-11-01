@@ -9,12 +9,7 @@
 
 <br clear="all">
 
-<!-- 2. Orta Ayırıcı Görsel -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/51/51/a8/5151a8520238cf54e3651e6fda25e108.jpg" width="100%" />
-</p>
-
-<!-- 3. Sol İkinci Biyo Yazısı (Yarasa fotoğrafı kaldırıldı, yazı tam genişlikte) -->
+<!-- 2. İkinci Biyo Yazısı (Ortadaki ayırıcı görsel kaldırıldı) -->
 <p align="left">
   <b>Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
   Genellikle oyun oynurorum ozellıkle<br>
@@ -29,7 +24,7 @@
 
 <br clear="all">
 
-<!-- 4. En Altta Sağdan Sola Uzanan Yeni Banner Görseli -->
+<!-- 3. En Altta Sağdan Sola Uzanan Banner Görseli -->
 <p align="center">
   <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="100%" />
 </p>

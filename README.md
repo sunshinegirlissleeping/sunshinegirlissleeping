@@ -1,9 +1,9 @@
-<table>
+<table border="0">
   <tr>
-    <td align="left" valign="top">
-      <img src="https://i.pinimg.com/1200x/b1/5b/f7/b15bf78a0fd4961907bd2af1eaa2a76e.jpg" width="220">
+    <td align="left" valign="top" style="border: none;">
+      <img src="https://i.pinimg.com/1200x/b1/5b/f7/b15bf78a0fd4961907bd2af1eaa2a76e.jpg" width="280">
     </td>
-    <td valign="top" style="padding-left: 20px;">
+    <td valign="top" style="border: none; padding-left: 25px;">
       <h3>selam ◕⩊◕</h3>
       <p>can sıkıntısından actım, kullanmayı ogrenıcem umarım</p>
       <p>ben Beyza, gsf hazırlanıyorum. Sitenin amacını pek kavrayamadım basta dedığım gıbı ama eger gunluk yaptıgım seylerı yazıp paylasabılırsem o amacla kullanmaya calısıcam (•˕ •マⳊ</p>

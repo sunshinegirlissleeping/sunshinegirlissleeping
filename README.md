@@ -14,15 +14,20 @@
   <img src="https://i.pinimg.com/1200x/51/51/a8/5151a8520238cf54e3651e6fda25e108.jpg" width="100%" />
 </p>
 
-<!-- 3. Sol İkinci Biyo Yazısı + Sağda Yazıya Yapışık ve Tam Boy Fotoğraf -->
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none !important; background: transparent !important; width: 100%;">
-  <tr style="border: none !important; background: transparent !important;">
-    <td align="left" valign="middle" style="border: none !important; background: transparent !important; padding-right: 15px;">
-      <h3 style="margin-top: 0; margin-bottom: 10px; border: none !important;">Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</h3>
-      <p style="margin: 0 0 8px 0;">Genellikle oyun oynurorum ozellıkle</p>
-      <p style="margin: 0 0 8px 0;">Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu</p>
-      <p style="margin: 0 0 8px 0;">bılıyorum ve genelde bıldıklerımın ıcınde oluyorum!!</p>
-      <p style="margin: 0 0 8px 0;">En buyuk hayalim üni kazanmak ( • ̀ω•́ )✧</p>
-      <p style="margin: 0 0 8px 0;">ozellikle hacettepe gsf gelırse sevınırım</p>
-      <p style="margin: 0 0 8px 0;">ayrıca çizgifilm izlemeyi,unicornları</p>
-      <p style="margin: 0 0 8px
+<!-- 3. Sol İkinci Biyo Yazısı + Sağda Yazıya Yakın ve Uzun Fotoğraf -->
+<div style="overflow: auto; width: 100%;">
+  <img src="https://i.pinimg.com/736x/d0/2a/44/d02a44abe6517d98336dab596cbc8e83.jpg" width="230" style="float: right; margin-left: 15px; margin-top: 0; display: block;" />
+  <p align="left" style="margin: 0;">
+    <b>Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
+    Genellikle oyun oynurorum ozellıkle<br>
+    Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
+    bılıyorum ve genelde bıldıklerımın ıcınde oluyorum!!<br><br>
+    En buyuk hayalim üni kazanmak ( • ̀ω•́ )✧<br>
+    ozellikle hacettepe gsf gelırse sevınırım<br><br>
+    ayrıca çizgifilm izlemeyi,unicornları<br>
+    tatlı seylerı sevıyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
+    okudugun icin tekrardan tesekkurler!!◝(ᵔᗜᵔ)◜
+  </p>
+</div>
+
+<br clear="all">

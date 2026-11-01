@@ -9,8 +9,8 @@
 
 <br clear="all">
 
-<!-- 2. Sol İkinci Biyo Yazısı + Sağda Görsel (Çizgisiz) -->
-<p align="left">
+<!-- 2. Sol İkinci Biyo Yazısı + Sağ Yanında Çizgisiz Resim -->
+<div align="left">
   <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="180" align="right" hspace="15" />
   <b>Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
   Genellikle oyun oynurorum ozellıkle<br>
@@ -21,6 +21,6 @@
   ayrıca çizgifilm izlemeyi,unicornları<br>
   tatlı seylerı sevıyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
   okudugun icin tekrardan tesekkurler!!◝(ᵔᗜᵔ)◜
-</p>
+</div>
 
 <br clear="all">

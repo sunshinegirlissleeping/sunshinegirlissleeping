@@ -14,12 +14,18 @@
   <img src="https://i.pinimg.com/1200x/51/51/a8/5151a8520238cf54e3651e6fda25e108.jpg" width="100%" />
 </p>
 
-<!-- 3. Sol İkinci Biyo Yazısı + Sağda Yazıyla Aynı Boyda Büyük Fotoğraf -->
+<!-- 3. Sol İkinci Biyo Yazısı + Sağda Tam Boyutlu Fotoğraf -->
 <p align="left">
-  <img src="https://i.pinimg.com/736x/d0/2a/44/d02a44abe6517d98336dab596cbc8e83.jpg" width="280" align="right" hspace="15" />
+  <img src="https://i.pinimg.com/736x/d0/2a/44/d02a44abe6517d98336dab596cbc8e83.jpg" width="230" align="right" hspace="15" />
   <b>Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
   Genellikle oyun oynurorum ozellıkle<br>
   Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>
   bılıyorum ve genelde bıldıklerımın ıcınde oluyorum!!<br><br>
   En buyuk hayalim üni kazanmak ( • ̀ω•́ )✧<br>
-  ozellikle hacettepe
+  ozellikle hacettepe gsf gelırse sevınırım<br><br>
+  ayrıca çizgifilm izlemeyi,unicornları<br>
+  tatlı seylerı sevıyorum(♡ˊ͈ ꒳ ˋ͈)<br><br>
+  okudugun icin tekrardan tesekkurler!!◝(ᵔᗜᵔ)◜
+</p>
+
+<br clear="all">

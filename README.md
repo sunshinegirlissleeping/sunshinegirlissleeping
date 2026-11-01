@@ -9,8 +9,9 @@
 
 <br clear="all">
 
-<!-- 2. Ortalanmış İkinci Biyo Yazısı -->
-<p align="center">
+<!-- 2. Sol İkinci Biyo Yazısı + Sağda Görsel (Çizgisiz) -->
+<p align="left">
+  <img src="https://i.pinimg.com/736x/66/2d/1b/662d1b5bafc438e2cc6f1d1299f227c3.jpg" width="180" align="right" hspace="15" />
   <b>Kendımden bıraz daha bahsedıyım ཐི ₍^.ˬˬ.^₎ ཋྀ</b><br>
   Genellikle oyun oynurorum ozellıkle<br>
   Bs ( •̯́ ₃ •̯̀) Bs oynadıgıma bakma cogu fandomu<br>

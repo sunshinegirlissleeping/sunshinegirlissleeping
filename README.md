@@ -1,11 +1,8 @@
 <img src="https://i.pinimg.com/1200x/b1/5b/f7/b15bf78a0fd4961907bd2af1eaa2a76e.jpg" width="260" align="left" />
 
 **selam ◕⩊◕**  
-can sıkıntısından actım, kullanmayı ogrenıcem umarım  
 
-ben Beyza, gsf hazırlanıyorum. Sitenin amacını pek kavrayamadım basta dedığım gıbı ama eger gunluk yaptıgım seylerı yazıp paylasabılırsem o amacla kullanmaya calısıcam (•˕ •マⳊ  
-
-Okudugun ıcın tesekkurler!! (˵◝ ⩊ ◜˵マ
+ben Beyza, gsf hazırlanıyorum (•˕ •マⳊ  
 
 <br clear="all">
 
@@ -22,6 +19,6 @@ ozellikle hacettepe gsf gelırse sevınırım
 ayrıca çizgifilm izlemeyi,unicornları  
 tatlı seylerı sevıyorum(♡ˊ͈ ꒳ ˋ͈)  
 
-okudugun icin tekrardan tesekkurler!!◝(ᵔᗜᵔ)◜
+okudugun icin tesekkurler!!◝(ᵔᗜᵔ)◜
 
 <br clear="all">
